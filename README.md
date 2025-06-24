@@ -19,7 +19,7 @@
 #### (3) 🗃️ 데이터 수집 & 전처리
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white"> <img src="https://img.shields.io/badge/selenium-3B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=requests&logoColor=white"> <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"> 
 
-#### (4) 💻 개발 환경 & 협업 - Jupyter Notebook, VS Code, Git, GitHub, Notion, Slack,
+#### (4) 💻 개발 환경 & 협업
 <img src="https://img.shields.io/badge/jupyternotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 #### (5) 🚀 웹 기반 인터페이스 구축
