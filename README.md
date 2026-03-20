@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
 ### 📫 How to reach me
-- Email: suh9601@gmail.com
+- Email: soohyun.kim539@gmail.com
 - Blog: https://velog.io/@suh9601/posts
 
 <!--
